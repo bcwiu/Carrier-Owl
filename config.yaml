@@ -1,11 +1,19 @@
 # arxivの学問領域の指定
-subject: 'cat:cs.*'
+subject: 'cat:cond-mat.mtrl-sci.*'
 
 # 検索キーワード
 keywords:
-        kaggle: 3
-        resnet: 3
-        anomaly detection: 1
+        adhesive: 3
+        energy release rate: 3
+        creep: 3
+        bonding joint: 2
+        fracture toughness: 2
+        epoxy: 2
+        dcb: 1
+        double cantilever beam: 1
+        crack growth rate: 3
+        water: 1
+        moisture: 1
 
 # 通知の閾値
 score_threshold: 0
