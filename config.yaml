@@ -1,5 +1,5 @@
 # arxivの学問領域の指定
-subject: 'cat:cond-mat.mtrl-sci*'
+subject: 'cat:cond-mat.mtrl-sci* OR cat:cs.AI'
 
 # 検索キーワード
 keywords:
@@ -14,6 +14,8 @@ keywords:
         crack growth rate: 3
         water: 1
         moisture: 1
+        AI: 3
+        neural network: 3
 
 # 通知の閾値
 score_threshold: 0
